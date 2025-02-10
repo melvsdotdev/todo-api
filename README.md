@@ -1,5 +1,5 @@
 # TODO API
-A simple TODO CRUD API using Express.js and Turso
+A simple todo API using Express.js and Turso
 
 ## Setup
 
